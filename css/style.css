@@ -9965,4 +9965,8 @@ textarea.form-control {
   .margin-left-footer{
       text-align: center;
       object-position: center;
-    }
+  }
+
+.font-size{
+  font-size: 28px !important;
+}
