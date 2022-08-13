@@ -9970,3 +9970,8 @@ textarea.form-control {
 .font-size{
   font-size: 28px !important;
 }
+
+.pos-cen{
+  object-position: center !important;
+  justify-content: center !important;
+}
